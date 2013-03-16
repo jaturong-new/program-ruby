@@ -15,4 +15,6 @@ class BlueMagnet
       end
     end
   end
+  
+  break;
 end
